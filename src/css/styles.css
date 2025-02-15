@@ -36,7 +36,7 @@ button:hover {
 .info {
   display: flex;
   gap: 5px;
-  font-weight: 400;
+  font-weight: 250;
   font-size: 12px;
   line-height: 200%;
   letter-spacing: 0.04em;
@@ -53,14 +53,12 @@ p {
 
 .hidden {
   display: none;
-  
 }
 
 #load-more {
-    display: block; 
-    margin: 20px auto;
+  display: block;
+  margin: 20px auto;
 }
-
 
 #loader {
   font-size: 18px;
